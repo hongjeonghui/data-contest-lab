@@ -84,7 +84,7 @@ AI·데이터 분석 공모전 준비 및 학습을 위한 협업 저장소입�
 | master                  | 기본 브랜치 (최종 결과물 정리용)                   |
 | dev                     | 공동 개발·통합 브랜치               |
 | feat/data-preprocessing | 기능/전처리 코드 작업 브랜치 |
-| docs/meeting            | 회의록 및 문서용                  |
+| docs           | 회의록 및 문서용                  |
 | exp/model-baseline      | 실험·모델링용                    |
 | fix/data-path           | 버그 수정용                     |
 
